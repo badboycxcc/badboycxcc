@@ -7,6 +7,6 @@
 
 📖 Vocation: Security
 
-💻 Twitter: [https://assassins-white.github.io](https://twitter.com/cxaqhq)
+💻 Twitter: [@cxaqhq](https://twitter.com/cxaqhq)
 
 📫 Email: cxaqhq@gmail.com
