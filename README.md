@@ -1,4 +1,4 @@
-# BADBOYCXCC 👋
+# BADBOYCXCC 
 
 ### 网络安全研究员
 
