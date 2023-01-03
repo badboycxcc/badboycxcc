@@ -1,6 +1,6 @@
 # BADBOYCXCC 
 
-### 打工人！！！
+### 2023 新的开始
 
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=badboycxcc&count_private=true&show_icons=true&hide=prs&theme=radical" />
@@ -12,4 +12,6 @@
 📫 Email: cxaqhq@gmail.com
 
 
-### 新的开始
+### 历史
+
+[2022](https://github.com/badboycxcc/badboycxcc/blob/main/2022-README.md)
