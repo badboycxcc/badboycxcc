@@ -1,6 +1,6 @@
 # BADBOYCXCC 
 
-### 2024 新的开始
+### 2024 再努力一点！
 
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=badboycxcc&count_private=true&show_icons=true&hide=prs&theme=radical" />
@@ -13,5 +13,5 @@
 
   
 
-[2023](https://github.com/badboycxcc/badboycxcc/blob/main/2023-README.md)
-[2022](https://github.com/badboycxcc/badboycxcc/blob/main/2022-README.md)
+[2023](https://github.com/badboycxcc/badboycxcc/blob/main/2023-README.md)  
+[2022](https://github.com/badboycxcc/badboycxcc/blob/main/2022-README.md)  
