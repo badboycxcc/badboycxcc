@@ -13,6 +13,7 @@
 
 
 ### 历史
-第一个安全厂商漏洞：CVE-2023-6071
+第一个安全厂商漏洞：CVE-2023-6071  
+CNVD: CNVD-2023-100619  
 
 [2022](https://github.com/badboycxcc/badboycxcc/blob/main/2022-README.md)
