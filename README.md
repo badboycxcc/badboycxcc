@@ -10,7 +10,7 @@
 💻 Twitter: [@cxaqhq](https://twitter.com/cxaqhq)
 
 📫 Email: 
-          cxaqhq@gmail.com
+          cxaqhq@gmail.com  
           cxaqhq@t00ls.net
 
   
