@@ -7,11 +7,10 @@
 
 📖 Vocation: 网络安全研究员
 
+📖 个人名片：https://t00.ls/cxaqhq
+
 💻 Twitter: [@cxaqhq](https://twitter.com/cxaqhq)
 
-📫 Email:   
-          cxaqhq@gmail.com  
-          cxaqhq@t00ls.net
 
   
 ### 历史：
